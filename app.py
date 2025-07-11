@@ -11,7 +11,7 @@ import hashlib
 
 # --- Streamlit Page Configuration ---
 st.set_page_config(
-    page_title="URS document extractor v2",
+    page_title="URS document data extractor",
     page_icon="📄",
     layout="wide"
 )
