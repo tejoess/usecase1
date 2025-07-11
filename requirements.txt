@@ -6,4 +6,4 @@ langchain-community
 langchain-huggingface
 faiss-cpu
 sentence-transformers
-llama-cpp-python
+llama-cpp-python --no-cache-dir
